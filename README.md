@@ -8,11 +8,11 @@ Supervisor: Dr. Stenford Ruvinga
 Project Title
 Predicting Consumer Complaint Resolution Outcomes Using Fused NLP-Derived Sentiment and Structured Metadata: A Machine Learning Study on CFPB Credit Bureau Complaints.
 Repository Contents
-model_results.csv — AUC-ROC, F1, precision, and recall for all nine model configurations under stratified 5-fold cross-validation.
-shap_feature_importance.csv — Mean absolute SHAP values for all 17 features ranked by predictive contribution.
-cfpb_vader_scores.csv — VADER compound, positive, negative, and neutral scores for all 197,895 eligible narratives.
-cfpb_finbert_scores.csv — FinBERT label, confidence, and class probability scores for all 197,895 eligible narratives.
-Dissertation_Notebook.ipynb — Complete implementation notebook covering data loading, EDA, preprocessing, sentiment extraction, model training, evaluation, and SHAP analysis.
+model_results.csv - AUC-ROC, F1, precision, and recall for all nine model configurations under stratified 5-fold cross-validation.
+shap_feature_importance.csv - Mean absolute SHAP values for all 17 features ranked by predictive contribution.
+cfpb_vader_scores.csv - VADER compound, positive, negative, and neutral scores for all 197,895 eligible narratives.
+cfpb_finbert_scores.csv - FinBERT label, confidence, and class probability scores for all 197,895 eligible narratives.
+Dissertation_Notebook.ipynb - Complete implementation notebook covering data loading, EDA, preprocessing, sentiment extraction, model training, evaluation, and SHAP analysis.
 Dataset
 The CFPB Consumer Complaint Database is publicly available at https://www.consumerfinance.gov/data-research/consumer-complaints/
 Ethics Approval
