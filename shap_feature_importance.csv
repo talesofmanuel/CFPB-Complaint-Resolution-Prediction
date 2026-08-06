@@ -1,0 +1,18 @@
+Feature,Mean Absolute SHAP
+company_freq,1.0851
+product,0.2759
+sub-issue,0.1118
+state,0.047
+issue,0.0451
+narrative_word_count,0.0444
+vader_compound,0.0296
+vader_negative,0.0284
+sub-product,0.0261
+finbert_label_encoded,0.0251
+vader_positive,0.0237
+finbert_positive,0.0232
+vader_neutral,0.0201
+finbert_confidence,0.0201
+finbert_negative,0.0183
+finbert_neutral,0.016
+narrative_present,0.0103
